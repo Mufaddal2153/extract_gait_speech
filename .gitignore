@@ -1,0 +1,7 @@
+venv/
+hp_gait_4.mp4.csv
+Gait_Predictor/videos/
+Gait_Predictor/models/
+Gait_Predictor/dataset_avg.csv
+Speech_Assessment/audio/
+Speech_Assessment/models/
